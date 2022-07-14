@@ -18,6 +18,20 @@
   <img align="center" alt="Dilum De Siva | Twitch" width="24px" src="https://github.com/dilumdesilva/dilumdesilva/blob/main/src/twitch.webp" />
 </a> &nbsp;&nbsp;
 <p>
+  
+<br/>
 
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
+<p align="center"> 
+  <a href="https://github.com/dilumdesilva?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/github/stars/dilumdesilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/dilumdesilva?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dilumdesilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/dilumdesilva/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/dilumdesilva-profile-views"/></a>
+</p>
   
   
